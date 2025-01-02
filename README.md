@@ -6,9 +6,7 @@
 
 ---
 
-<div style="text-align: center;">
   ## 🚀 About Me
-</div>
 - 💻 **Frontend Developer** with expertise in:
   - **HTML5**, **CSS3**, **SASS**, **TailwindCSS**
 - 🌱 Currently diving deeper into **JavaScript**.
