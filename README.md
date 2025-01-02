@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Arhip Parubets!</h1>
 
 <p align="center">
-  <i>Passionate about building modern, responsive, and user-friendly web applications.</i><br>
-  🚀 Exploring new technologies and constantly learning to improve my skills.
+  I am a beginner frontend developer passionate about creating modern, responsive, and user-friendly web applications. 🚀 I am constantly learning new technologies to improve my skills.
 </p>
 
 ---
