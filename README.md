@@ -9,7 +9,6 @@
 ## 🚀 About Me
 - 💻 **Frontend Developer** with expertise in:
   - **HTML5**, **CSS3**, **SASS**, **TailwindCSS**
-  - **JavaScript**, **React.js**
 - 🌱 Currently diving deeper into **Next.js** and **TypeScript**.
 - ✨ Interested in modern web technologies and clean, scalable code.
 
