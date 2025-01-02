@@ -17,9 +17,9 @@
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/b123b7cd1937e4fc11267e562159764bb15946dd1d23a6ef08f3803ab49da1ba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://camo.githubusercontent.com/aae5d91491e403b1f9d176ee05ee086627dc901536fb3691c389dfbf97ef9f04/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" />
+  <img src="https://camo.githubusercontent.com/145fda8c21f0cba760729bef88ec933c34e44f51aec06821fa60f7a09f943548/68747470733a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f636f6c6f722e706e67" />
+  <img src="https://camo.githubusercontent.com/8a865bb2b7042e337e8f3ba4e9d9a6b4aefd2f5a6174ac0a7cd358a4b6cb90ff/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461696c77696e646373732e706e67" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
