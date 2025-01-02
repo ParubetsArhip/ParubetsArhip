@@ -16,11 +16,10 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/b123b7cd1937e4fc11267e562159764bb15946dd1d23a6ef08f3803ab49da1ba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" />
-  <img src="https://camo.githubusercontent.com/aae5d91491e403b1f9d176ee05ee086627dc901536fb3691c389dfbf97ef9f04/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" />
-  <img src="https://camo.githubusercontent.com/145fda8c21f0cba760729bef88ec933c34e44f51aec06821fa60f7a09f943548/68747470733a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f636f6c6f722e706e67" />
-  <img src="https://caffeinecreations.ca/uploads/blog/_1200x630_crop_center-center_82_none/sass-logo-new.png?mtime=1571250877" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50">
+  <img src="https://sass-lang.com/assets/img/styleguide/color.png" alt="SASS" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50">
 </div>
 
 ---
