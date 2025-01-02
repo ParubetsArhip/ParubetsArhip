@@ -1,40 +1,66 @@
-# <span style="color:blue; font-family:'Courier New';">Your Name</span>
+<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
 
-![Your ASCII Art](URL_к_вашему_ASCII_art)
+<p align="center">
+  <i>Passionate about building modern, responsive, and user-friendly web applications.</i><br>
+  🚀 Exploring new technologies and constantly learning to improve my skills.
+</p>
 
-## <span style="color:green; font-family:'Courier New';">Описание</span>
+---
 
-Краткое описание вашей специализации, увлечений, навыков и т.д.
+## 🚀 About Me
+- 💻 **Frontend Developer** with expertise in:
+  - **HTML5**, **CSS3**, **SASS**, **TailwindCSS**
+  - **JavaScript**, **React.js**
+- 🌱 Currently diving deeper into **Next.js** and **TypeScript**.
+- ✨ Interested in modern web technologies and clean, scalable code.
 
-### <span style="color:purple; font-family:'Courier New';">Operating Systems:</span>
-- Windows 10, iOS
+---
 
-### <span style="color:purple; font-family:'Courier New';">Uptime:</span>
-- 21 years, 3 months, 13 days
+## 🛠️ Technologies & Tools
 
-### <span style="color:purple; font-family:'Courier New';">Host:</span>
-- Your Alma Mater or Current Employer
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</div>
 
-### <span style="color:purple; font-family:'Courier New';">Kernel:</span>
-- Your Major or Field of Expertise
+---
 
-### <span style="color:purple; font-family:'Courier New';">IDE:</span>
-- IntelliJ IDEA, VSCode
+## 🌱 Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
 
-### <span style="color:purple; font-family:'Courier New';">Languages:</span>
-- **Programming:** Java, Python, C++, JavaScript
-- **Computer:** HTML, CSS, JSON, XML, LaTeX, YAML, Markdown
-- **Real:** English, Spanish
+---
 
-### <span style="color:purple; font-family:'Courier New';">Hobbies:</span>
-- **Software:** Minecraft Modding, iOS Jailbreaking
-- **Hardware:** Overclocking, Undervolting
+## ✨ My Interests
+- 🎨 **UI/UX Design**: Creating intuitive and visually appealing interfaces.
+- 🎧 **Music**: Keeps me motivated while coding.
+- 📖 **Reading**: Technology blogs and self-improvement books.
+- 🌍 **Traveling**: Exploring new places and cultures.
 
-### <span style="color:purple; font-family:'Courier New';">Contact:</span>
-- **Email:** example@example.com
-- **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/yourprofile)
-- **Discord:** YourDiscordUsername
+---
 
-### <span style="color:purple; font-family:'Courier New';">GitHub Stats:</span>
-- Repos: 84 {Contributed: 121} | Commits: 1,943 | Stars: 183
-- Followers: 53 | Lines of Code: 434,280 (505,347++, 71,067--)
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/ВАШ_ЛИНК" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ВАШ_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ВАШ_САЙТ" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
