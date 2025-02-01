@@ -7,9 +7,7 @@
 ---
 
   ## 🚀 About Me
-- 💻 **Frontend Developer** with expertise in:
-  - **HTML5**, **CSS3**, **SASS**, **TailwindCSS**
-- 🌱 Currently diving deeper into **JavaScript**.
+  I am passionate about front-end development and get great satisfaction from it. My goal is to create beautiful and user-friendly web applications that inspire users with their design and functionality.
 
 ---
 
