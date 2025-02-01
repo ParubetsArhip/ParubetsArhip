@@ -53,13 +53,13 @@
 
 ## 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/ВАШ_ЛИНК" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40"/>
   </a>
-  <a href="mailto:ВАШ_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40"/>
   </a>
-  <a href="https://ВАШ_САЙТ" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" width="40"/>
   </a>
 </p>
