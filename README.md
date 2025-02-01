@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Arhip Parubets!</h1>
 
-## Beginner Front-end Developer
+<p align="center">Beginner Front-end Developer</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhouse&label=Profile%20views&color=0e75b6&style=flat" alt="arhouse" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arhouse&label=Profile%20views&color=0e75b6&style=flat" alt="arhouse" /> </p>
 
 ---
 
