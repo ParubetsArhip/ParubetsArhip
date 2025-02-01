@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi, I'm Mykhailo Voronov</p>
+# <p align="center">👋 Hi, I'm Arhip Parubets</p>
 
 <p align="center" style="font-size: 200px; font-weight: bold;">Beginner Front-end Developer</p>
 
