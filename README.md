@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Arhip Parubets!</h1>
 
-<p align="center">Beginner Front-end Developer</p>
+<p align="center" style="font-size: 28px; font-weight: bold;">Beginner Front-end Developer</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ParubetsArhip&label=Profile%20views&color=0e75b6&style=flat" alt="ParubetsArhip" /> </p>
 
