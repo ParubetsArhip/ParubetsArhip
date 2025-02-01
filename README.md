@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Arhip Parubets!</h1>
 
-<p align="center">
-  I am a beginner frontend developer passionate about creating modern, responsive, and user-friendly web applications. 🚀 I am constantly learning new technologies to improve my skills.
-</p>
+## Beginner Front-end Developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhouse&label=Profile%20views&color=0e75b6&style=flat" alt="arhouse" /> </p>
 
 ---
 
