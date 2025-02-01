@@ -2,7 +2,7 @@
 
 <p align="center">Beginner Front-end Developer</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arhouse&label=Profile%20views&color=0e75b6&style=flat" alt="arhouse" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ParubetsArhip&label=Profile%20views&color=0e75b6&style=flat" alt="ParubetsArhip" /> </p>
 
 ---
 
