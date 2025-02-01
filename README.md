@@ -7,7 +7,9 @@
 ---
 
   ## 🚀 About Me
-  I am passionate about front-end development and get great satisfaction from it. My goal is to create beautiful and user-friendly web applications that inspire users with their design and functionality.
+  <p>
+    I am passionate about front-end development and get great satisfaction from it. My goal is to create beautiful and user-friendly web applications that inspire users with their design and functionality.
+  </p>
 
 ---
 
