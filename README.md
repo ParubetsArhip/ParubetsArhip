@@ -54,7 +54,7 @@
 ## 🌐 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/ВАШ_ЛИНК" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
   <a href="mailto:ВАШ_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
