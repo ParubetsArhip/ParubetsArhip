@@ -32,11 +32,10 @@
 ---
 
 ## ✨ My Interests
-- 🎨 **UI/UX Design**: Creating intuitive and visually appealing interfaces.
-- 🎧 **Music**: Keeps me motivated while coding.
-- 📖 **Reading**: Technology blogs and self-improvement books.
-- 🌍 **Traveling**: Exploring new places and cultures.
-
+- 🎨 **Front-end**: I love creating beautiful web applications.
+- 🏋️‍♂️ **Sport**: It's good for health and helps maintain great shape.
+- 📚 **English language**: I study English to be a better developer.
+  
 ---
 
 ## 📈 GitHub Stats
