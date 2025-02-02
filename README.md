@@ -26,7 +26,7 @@
 
 ## 🌱 Currently Learning
 <div>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </div>
 
 ---
