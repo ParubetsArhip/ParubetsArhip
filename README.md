@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 <div align="center" height="200" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="http://www.github.com/ParubetsArhip">
+  <a href="https://github.com/ParubetsArhip">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParubetsArhip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="200"/>
   </a>
 
