@@ -30,7 +30,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" width="58" height="58">
