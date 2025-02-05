@@ -7,9 +7,9 @@
 ---
 
   ## 🚀 About Me
-  <p>
-    I am passionate about front-end development and get great satisfaction from it. My goal is to create beautiful and user-friendly web applications that inspire users with their design and functionality.
-  </p>
+  - 🎨 **Front-end**: I love creating beautiful web applications.
+  - 🏋️‍♂️ **Sport**: It's good for health and helps maintain great shape.
+  - 📚 **English language**: I study English to be a better developer.
 
 ---
 
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="taillwind" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="50" height="50">
 </div>
 
@@ -28,13 +29,6 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </div>
-
----
-
-## ✨ My Interests
-- 🎨 **Front-end**: I love creating beautiful web applications.
-- 🏋️‍♂️ **Sport**: It's good for health and helps maintain great shape.
-- 📚 **English language**: I study English to be a better developer.
   
 ---
 
