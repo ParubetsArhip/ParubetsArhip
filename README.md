@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Let's Connect!
-<p align="center">
+<p>
   <a href="mailto:arhipparubets@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40"/>
   </a>
