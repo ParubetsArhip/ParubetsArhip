@@ -43,11 +43,11 @@
 
 ## 🌱 Currently Learning
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
   </div>
-  <div style="display: flex; align-items: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" alt="Arch Linux" width="100" height="100">
   </div>
 </div>
