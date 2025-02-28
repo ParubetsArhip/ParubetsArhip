@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/arhipfn?igsh=aWhlMDA2aTZlNDJs&utm_source=qr" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40"/>
   </a>
-  <a href="https://t.me/arhousefn" target="_blank">
+  <a href="https://t.me/arhiparch" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" width="40"/>
   </a>
 </p>
