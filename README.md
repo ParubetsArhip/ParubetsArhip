@@ -15,6 +15,9 @@
 
 ## 🌐 Let's Connect!
 <p align="center">
+  <a href="https://www.linkedin.com/in/arhip-parubets-543b71316/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+  </a>
   <a href="mailto:arhipparubets@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40"/>
   </a>
