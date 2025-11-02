@@ -51,7 +51,7 @@
 ## 🌱 Currently Learning
 
 <div align="center" style="display: flex; align-items: center; column-gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50">
+
 </div>
   
 ---
