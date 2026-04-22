@@ -24,7 +24,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss)
 
-## 📊 GitHub Stats
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 ![Arhip's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParubetsArhip&show_icons=true&theme=dark)
 ![Arhip's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ParubetsArhip&theme=dark&hide_border=true&stroke=f53b3b)
